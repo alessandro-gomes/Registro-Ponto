@@ -4,7 +4,15 @@
 
 ## Veja um vídeo da aplicação em funcionamento, segue o link [aqui](https://youtu.be/__nJSBApKf4)
 
-### Tecnologias utilizadas
+### Tecnologias utilizadas:
+- Java
+- Spring Boot
+- MVC
 - MySQL
-- Java com Spring 
 - React.js
+- Bootstrap
+- jQuery
+- Ajax
+- React Router
+- Biblioteca de geolocalização( pigeon maps )
+- Biblioteca para acessar webcam ( react webcam )
