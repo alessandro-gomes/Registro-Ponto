@@ -14,5 +14,5 @@
 - jQuery
 - Ajax
 - React Router
-- Biblioteca de geolocalização( pigeon maps )
-- Biblioteca para acessar webcam ( react webcam )
+- Biblioteca de geolocalização (pigeon maps)
+- Biblioteca para acessar webcam (react webcam)
